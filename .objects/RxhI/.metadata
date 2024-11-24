@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Caixa de entrada - daniel.nascimento@logos-ma.com.br - Outlook",
+  "Type": "App",
+  "Id": "RxhIXWMdiECMr1HFlNFWdw",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/RxhIXWMdiECMr1HFlNFWdw",
+  "Created": "2024-10-29T21:44:01.2355513Z",
+  "Updated": "2024-10-29T21:44:01.2355513Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

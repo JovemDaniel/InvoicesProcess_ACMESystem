@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3dsFh3iRB0SlN9M3-mqN3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/first-automation" CVScreenId="634a9c87-55f1-4b8f-a9dc-4c1ec97a6ec1" CvTextArea="514, 385, 60, 17" CvTextArgument="PART 2" CvType="Text" DesignTimeRectangle="478, 373, 96, 34" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Part 2' tag='A' type='' class='' check:innerText='PART 2' /&gt;" Guid="a924fc44-645f-4eb0-9601-543f3a4fd595" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="634a9c87-55f1-4b8f-a9dc-4c1ec97a6ec1" CvTextArea="514, 385, 60, 17" CvTextArgument="PART 2" CvType="Text" DesignTimeRectangle="514, 384, 60, 17" ElementType="Text" Guid="ca24e294-1f54-4b93-82cd-f22435bef17c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f6ab2cbb218d6c5394ebdcc49b053c77.png" xmlns="">0g2mwvUd0AkyPr-__QLjdog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="H-uVtr97fka83x0VxzyMYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/first-automation" CVScreenId="a0625310-6489-4ef9-8124-cd20d2b734af" CvElementArea="784, 529, 164, 46" CvTextArea="842, 544, 45, 16" CvTextArgument="Send" CvType="Button" DesignTimeRectangle="784, 530, 164, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='send-email' tag='BUTTON' type='submit' class='c-form__button' aaname='Send' check:innerText='Send' /&gt;" Guid="5792e24f-9c10-48eb-94ca-5121cafe8fef" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a0625310-6489-4ef9-8124-cd20d2b734af" CvTextArea="342, 451, 1027, 27" CvTextArgument="Click on the Notify me button to insert your email address and receive the exercise materials." CvType="Text" DesignTimeRectangle="342, 452, 1027, 27" ElementType="Text" Guid="aaa554ac-7ed8-4708-91d6-53ac3223150d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="685b47a87e981eb392cf61fdfbdf6a9b.png" xmlns="">0Ea04P_-VP0CeDfxa9TlLlg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

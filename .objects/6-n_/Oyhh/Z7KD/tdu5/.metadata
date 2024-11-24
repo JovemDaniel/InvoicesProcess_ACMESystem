@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Notify Me",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "tdu512xwP0C4jHb_pyYVHw",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/tdu512xwP0C4jHb_pyYVHw",
+  "ParentRef": "pgY4IbwPiU-_vk2-9ATRwQ/Z7KDkZYh8U2dkk1SCTpuSA",
+  "Created": "2024-10-29T16:48:18.2902856Z",
+  "Updated": "2024-10-29T16:48:18.2902856Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click on the Notify me …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "PB32-M4Cb0GQY3unGdG7nA",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/PB32-M4Cb0GQY3unGdG7nA",
+  "ParentRef": "pgY4IbwPiU-_vk2-9ATRwQ/Z7KDkZYh8U2dkk1SCTpuSA",
+  "Created": "2024-10-29T21:16:47.0045415Z",
+  "Updated": "2024-10-29T21:16:47.0045415Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

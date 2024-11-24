@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Caixa de entrada - daniel.nascimento@logos-ma",
+  "Type": "Screen",
+  "Id": "C89qMT6Z_EGlTHdzJwX7XA",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/C89qMT6Z_EGlTHdzJwX7XA",
+  "ParentRef": "pgY4IbwPiU-_vk2-9ATRwQ/xyr9SfoGC0OpAMVgFLi9fA",
+  "Created": "2024-10-29T21:44:01.2916392Z",
+  "Updated": "2024-10-29T21:44:01.2916392Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

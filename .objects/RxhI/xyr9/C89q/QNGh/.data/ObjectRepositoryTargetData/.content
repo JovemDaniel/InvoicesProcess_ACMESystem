@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="73GBFbt8UEOLBzdnutbg1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1777, 93, 106, 87" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Página Inicial' /&gt;&lt;uia cls='NetUIChunk' name='Enviar/Receber' /&gt;&lt;uia cls='NetUIRibbonButton' name='Enviar/Receber Todas as Pastas' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Página Inicial' /&gt;&lt;uia cls='NetUIChunk' name='Enviar/Receber' /&gt;&lt;uia cls='NetUIRibbonButton' name='Enviar/Receber Todas as Pastas' role='Botão' automationid='' check:fulltext='Enviar/Receber Todas as Pastas' /&gt;" Guid="e4e95ecf-5a8f-465f-a212-bd9e8778d26d" ScopeSelectorArgument="&lt;wnd app='outlook.exe' cls='rctrl_renwnd32' title='Caixa de entrada - daniel.nascimento@logos-ma.com.br - Outlook' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9ad2d737-cc38-4b93-966d-0fe1304a9f58" CvTextArea="1778, 141, 101, 16" CvTextArgument="Enviar/Receber" CvType="Text" DesignTimeRectangle="1778, 141, 101, 16" ElementType="Text" Guid="568ac958-2679-4d58-aa80-2f43097d8000" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d599d7ce62ea01496dac9fcf516ee970.png" xmlns="">02gfq9xMQV0WUYL9v1KhMzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

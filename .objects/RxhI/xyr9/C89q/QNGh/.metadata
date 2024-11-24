@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EnviarReceber",
+  "Type": "Element",
+  "Id": "QNGh-3NfzkChcyNjXPqLsg",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/QNGh-3NfzkChcyNjXPqLsg",
+  "ParentRef": "pgY4IbwPiU-_vk2-9ATRwQ/C89qMT6Z_EGlTHdzJwX7XA",
+  "Created": "2024-10-29T22:25:50.8473338Z",
+  "Updated": "2024-10-29T22:25:50.8473338Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

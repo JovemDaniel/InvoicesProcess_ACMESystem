@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Insert the client code …(1)",
+  "Type": "Element",
+  "Id": "eoBJSAPUIk-XZF1LZTsxOQ",
+  "Reference": "pgY4IbwPiU-_vk2-9ATRwQ/eoBJSAPUIk-XZF1LZTsxOQ",
+  "ParentRef": "pgY4IbwPiU-_vk2-9ATRwQ/SvwkiPQJbkebT7NEhGxKmQ",
+  "Created": "2024-10-29T14:30:45.6113027Z",
+  "Updated": "2024-10-29T14:30:45.6113027Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
